@@ -1,0 +1,1 @@
+const loadmore = "feature: load more content"
