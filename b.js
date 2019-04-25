@@ -1,1 +1,1 @@
-const hostname = 'localhost'
+const hostname = 'localhost';
